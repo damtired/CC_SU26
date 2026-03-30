@@ -21,7 +21,7 @@ jobs:
       - name: 'Mirror to Codeberg'
         uses: cssnr/mirror-repository-action@v1
         with:
-          url: https://github.com/codecollectiveKHM/CC_SU26.git
+          url: https://github.com/codecollectiveKHM/CC_SU26
           host: https://codeberg.org
           # owner: codecollectiveKHM
           # repo: CC_SU26
