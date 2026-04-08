@@ -108,7 +108,7 @@ Thank you to the individuals and organizations who developed these principles an
 #### Access support 
 To accommodate your body during seminars or co-working, please feel free to stim, stretch, knit, doodle, move around, change seats, take a break or do what feels right to you. A calm, quieter area is being designated for taking time to reset. Please feel free to use that space, while respecting the space, and others in the space. It is important that you can learn in ways that support you — and all of us together — by making a shared space that is comfortable to express those needs, including any issues with the format, materials, requirements, lab areas, etc. Please communicate with Sarah how they can help support any access concerns, as it is their goal to create a learning experience that is as accessible as possible.
 
-#### Computer coding
+#### Computer code
 Programming is often collaborative, and computer code is often shared and reused. To an extent, this is appropriate in a coding course unless otherwise directed. If you do use code not written by yourself alone, you should always attribute it — no matter if the code comes from AI tools, a tutorial, a friend, or any other source. Please follow these protocols from MIT, which call for placing a comment in one's code with a URL to the original source, a note if it was adapted, and the date of retrieval: https://integrity.mit.edu/handbook/writing-code .
 
 #### Land acknowledgment
