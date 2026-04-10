@@ -12,7 +12,7 @@ Code Collective is a supportive community for  critical–creative coding. It is
 4. [Projects]()
 5. [Templates]()
 
-You can contribute to this git repo via [Codeberg](https://codeberg.org/codecollective/CC_SU26/) or [GitHub](https://github.com/codecollectiveKHM/CC_SU26). 
+You can contribute to this git repo via [Codeberg](https://codeberg.org/codecollective/CC_SU26/) or [GitHub](https://github.com/codecollectiveKHM/CC_SU26). <!--First join the organization with your own user account, then fork the repo, make changes from your fork, and submit a pull request.-->
 
 ## Where & When
 
@@ -22,24 +22,26 @@ Contact [Sarah](sarah.ciston@khm.de) to join
 
 #### Schedule
 
-|Week|Date|Topics|
-|---|---|---|
-|16|16 Apr|Introductions|
-|17|23 Apr|TBD|
-|18|30 Apr|TBD|
-|19|7 May|TBD|
-|20|14 May|TBD|
-|21|21 May|TBD|
-|22|28 May|TBD|
-|23|4 Jun|TBD|
-|24|11 Jun|TBD|
-|25|25 Jun|TBD|
-|26|2 Jul|TBD|
-|27|9 Jul|RUNDGANG|
+|Week|Date|Topics & Presentations|Read of the Week|
+|---|---|---|---|
+|16|16 Apr|Introductions||
+|17|23 Apr|TBD|TBD|
+|18|30 Apr|||
+|19|7 May|||
+|20|14 May|||
+|21|21 May|||
+|22|28 May|||
+|23|4 Jun|||
+|24|11 Jun|||
+|25|25 Jun|||
+|26|2 Jul|||
+|27|9 Jul|RUNDGANG|n/a|
 
 ## Who
 
-**Prof. Dr. Sarah Ciston** (they) [sarah dot ciston at khm dot de](sarah.ciston@khm.de)
+[Course Roster](roster.md)
+
+**Prof. Dr. Sarah Ciston** (they/any) [sarah dot ciston at khm dot de](sarah.ciston@khm.de)
 
 Sprechstunden: https://tinyurl.com/chatwsarah (Make a time to chat with Sarah)
 
@@ -70,9 +72,10 @@ None! No particular experience is required. Any kind of field or background is h
 #### Resources
 
 We can build a group of resources and shared readings together.
- 
-[Knowledge Hub Wish List]():
-- [Wiki/Loqseq TBD]
+
+[Lab Knowledge Hub](https://codecollectiveKHM.github.io/knowledgehub)
+
+Wish List:
 - Collaborative Bibliography, Mediography, Zotero: 
 - Residencies, PhDs, Applications
 - Lab Inventories & Instructions  
@@ -88,22 +91,26 @@ Other hubs:
 Developed in past Code Collectives, these guidelines are open to inputs and updates as necessary to support the needs of this space as it evolves.
 
  1. scrappy artistic strategies, not perfect code <sup>2</sup>
- 2. growth, not perfection<sup>2</sup>
- 3. collaboration, not competition<sup>2</sup>
- 4. we all have skills to teach each other<sup>2</sup>
- 5. we meet people where they are. don't assume knowledge or imply hierarchies of skills. #nocodesnobs<sup>3</sup> #beginnersmind
- 6. we value processes as much as, or more than, outcomes<sup>4</sup>
- 7. all theory and practice is theory–practice. interdisciplinary goes hand-in-hand with intersectionality<sup>2</sup>
- 8. #blacklivesmatter #translivesmatter #indigenouslivesmatter engage tension; don't indulge drama<sup>4</sup>
- 9. focus on strategies rather than issues, solutions rather than problems<sup>5</sup>
- 10. listen from the heart, speak from the heart, be spontaneous, be brief<sup>6</sup>
- 11. assume best intent and attend to impact<sup>4</sup>
- 12. attempt collaboration before conflict<sup>7</sup>
- 13. accept responsibility for actions and take care to make amends when wrong<sup>3</sup>
- 14. take the lessons, leave the details (confidentiality)<sup>4</sup>
- 15. center care5 — self care and community care<sup>4</sup>
+ 1. growth not perfection<sup>2</sup>
+ 1. collaboration not competition<sup>2</sup>
+ 1. process over outcome<sup>4</sup>
+ 1. we all have skills to teach each other<sup>2</sup>
+ 1. we meet people where they are. try not to assume knowledge or imply skill hierarchies. (no code snobs.)<sup>3</sup> 
+ 1. always theory–practice, always critical-creative, always interdisciplinary and intersectional<sup>2</sup>
+ <!-- 1. focus on strategies rather than issues, solutions rather than problems<sup>5</sup> -->
+ 1. no one's basic human rights are up for debate. 
+ 1. listen from the heart, speak from the heart, be spontaneous, be brief<sup>6</sup>
+ <!-- 2. engage tension; don't indulge drama<sup>4</sup> -->
+ 1. assume best intent and attend to impact<sup>4</sup>
+ <!-- 5. attempt collaboration before conflict<sup>7</sup> -->
+ 1. accept responsibility for actions and take care to make amends when wrong<sup>3</sup>
+ <!-- 7. take the lessons, leave the details (default to confidentiality)<sup>4</sup> -->
+ 1. center care<sup>5</sup> — both self care and community care are connected<sup>4</sup>
+ 1. we communicate, cooperate, and care for each other to build the kind of community we want
 
-Thank you to the individuals and organizations who developed these principles and protocols: adrienne maree brown,<sup>4</sup> Allied Media Conference,<sup>5</sup> Berlin Code of Conduct,<sup>8</sup> Center for Council,<sup>6</sup> P5.js,<sup>3</sup> Superrr,<sup>7</sup> W3C,<sup>9</sup> and Creative Code Collective.<sup>2</sup>
+Thank you to the individuals and organizations who developed these principles and protocols: adrienne maree brown,<sup>4</sup> Allied Media Conference,<sup>5</sup> Berlin Code of Conduct,<sup>8</sup> Center for Council,<sup>6</sup> Creative Code Collective (LA),<sup>2</sup> *Feminist Killjoy Handbook*,<sup>10</sup> P5.js,<sup>3</sup> Superrr,<sup>7</sup> and W3C.<sup>9</sup>
+
+[text](../../../../var/folders/r1/dzvfn41j59l263tk3rr71hlm0000gn/T/com.apple.useractivityd/shared-pasteboard/items/7B021DAC-5350-4D3D-8ABA-4BEFFAF3ACEE/dbbd79962f0c7f441755a3a1cfd69ae02625a71f.rtfd)
 
 #### Access support 
 To accommodate your body during seminars or co-working, please feel free to stim, stretch, knit, doodle, move around, change seats, take a break or do what feels right to you. A calm, quieter area is being designated for taking time to reset. Please feel free to use that space, while respecting the space, and others in the space. It is important that you can learn in ways that support you — and all of us together — by making a shared space that is comfortable to express those needs, including any issues with the format, materials, requirements, lab areas, etc. Please communicate with Sarah how they can help support any access concerns, as it is their goal to create a learning experience that is as accessible as possible.
